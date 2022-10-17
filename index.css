@@ -45,6 +45,7 @@ header{
 
 .part1{
     height: 94vh;
+    width: 99%;
     padding: 58px 0 0;
 }
 
@@ -58,7 +59,14 @@ header{
     align-items: center;
     flex-direction: column;
 }
-    
+
+.blueButtonBox{
+    width: 100%;
+    display: flex; 
+    justify-content: flex-end; 
+    align-items: center;
+}
+
 .blueButton1{
     color: black;
     border: solid 4px blue;
@@ -94,6 +102,7 @@ header{
     justify-content: center;
     align-content: center;
     flex-direction: column;
+    width: 100%;
 }
 
 .title{
@@ -247,6 +256,7 @@ header{
     flex-direction: row;
     font-size: 20px;
     margin: 30px;
+    width: 88%;
 }
 
 .branchPotoB{
@@ -622,4 +632,59 @@ footer{
     color: white;
     margin: 3px; 
     font-size: 25px;
+}
+
+@media screen and (max-width: 1010px){
+    .branchA{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .branchB{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .branchC{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .part2{
+        height: 175vh;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .part3{
+        height: 175vh;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .part4{
+        height: 175vh;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .part5{
+        height: 175vh;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .headerLinks{
+        margin: 1.2px;
+    }
+
+    .blueButtonBox{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }   
 }

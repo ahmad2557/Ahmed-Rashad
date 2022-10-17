@@ -688,3 +688,9 @@ footer{
         align-items: center;
     }   
 }
+
+@media screen and (max-width: 392px){
+    .headerLinks{
+        font-size: 18px;
+    }
+}

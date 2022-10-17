@@ -60,6 +60,10 @@ header{
     flex-direction: column;
 }
 
+.job{
+    margin: 1px;
+}
+
 .blueButtonBox{
     width: 100%;
     display: flex; 

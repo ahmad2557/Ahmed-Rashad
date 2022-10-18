@@ -713,3 +713,21 @@ footer{
         font-size: 18px;
     }
 }
+
+@media screen and (max-height: 630px){
+    .part2{
+        margin: 0 0 40px 0;
+    }
+    
+    .part3{
+        margin: 0 0 40px 0;
+    }
+    
+    .part4{
+        margin: 0 0 40px 0;
+    }
+    
+    .part5{
+        margin: 0 0 40px 0;
+    }
+}

@@ -649,7 +649,7 @@ footer{
     margin: 1px;
     display: flex;
     align-items: center;
-    flex-direction: coulumn;
+    flex-direction: column;
     align-content: center;
     justify-content: center;
     }  

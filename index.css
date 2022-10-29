@@ -105,6 +105,16 @@ header{
     padding: 20px;
 }
 
+.part6{
+    height: 94vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
 .part2{
     height: 94vh;
     display: flex;

@@ -299,6 +299,7 @@ header{
     justify-content: center;
     align-content: center;
     flex-direction: column;
+    width: 100%;
 }
 
 .branchB{
@@ -500,6 +501,7 @@ header{
     justify-content: center;
     align-content: center;
     flex-direction: column;
+    width: 100%;
 }
 
 .part5{
@@ -510,6 +512,7 @@ header{
     align-content: center;
     flex-direction: column;
     background-color: #eff8ff;
+    width: 100%;
 }
 
 .branchTextC{

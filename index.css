@@ -741,25 +741,25 @@ footer{
     }
 
     .part2{
-        height: 175vh;
+        height: auto;
         flex-direction: column;
         align-items: center;
     }
 
     .part3{
-        height: 175vh;
+        height: auto;
         flex-direction: column;
         align-items: center;
     }
 
     .part4{
-        height: 175vh;
+        height: auto;
         flex-direction: column;
         align-items: center;
     }
 
     .part5{
-        height: 175vh;
+        height: auto;
         flex-direction: column;
         align-items: center;
     }
